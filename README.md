@@ -33,17 +33,5 @@ A beautifully animated, fully responsive restaurant website featuring modern des
 - **Performance Optimized** - GPU-accelerated transforms and opacity changes
 - **Progressive Enhancement** - Graceful degradation for older browsers
 
-## 🚀 Quick Start
-
-### Prerequisites
-- A modern web browser
-- A text editor (VS Code recommended)
-- Git for version control
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/bella-vista-restaurant.git
-   cd bella-vista-restaurant
+Make Fork and Give Star
    
